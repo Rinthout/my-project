@@ -1,1 +1,1 @@
-![example workflow](https://github.com/Rinthout/my-project/actions/workflows/hello.yml)
+![example workflow](https://github.com/Rinthout/my-project/actions/workflows/hello.yml/badge.svg)
