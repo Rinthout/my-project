@@ -9,6 +9,4 @@ jobs:
         uses: actions/checkout@v2
       - name: show workspace
         run: |
-          cd $GITHUB_WORKSPACE
-          pwd
           dir
